@@ -1,3 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Sirius</string>
+    <string name="dota_2_is_a_multiplayer_online_battle_arena_moba_game_which_has_two_teams_of_five_players_compete_to_collectively_destroy_a_large_structure_defended_by_the_opposing_team_known_as_the_ancient_whilst_defending_their_own">Dota 2 is a multiplayer online battle arena (MOBA) game which has two teams of five players compete to collectively destroy a large structure defended by the opposing team known as the Ancient, whilst defending their own.</string>
+    <string name="strategy">STRATEGY</string>
+    <string name="dota_2">Dota 2</string>
+    <string name="_70m">70M</string>
+    <string name="moba">MOBA</string>
+    <string name="multiplayer">MULTIPLAYER</string>
+    <string name="review_amp_ratings"><![CDATA[Review & Ratings]]></string>
+    <string name="_4_9">4.9</string>
+    <string name="_70m_reviews">70M Reviews</string>
+    <string name="install">Install</string>
 </resources>
